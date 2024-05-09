@@ -4,3 +4,5 @@
 2.作业2<br />
 --Tensorflow Playground 试用报告<br />
 --在mindspore框架下利用LeNet对MNIST数据集进行训练和测试<br />
+3.作业3<br />
+--使用训练好的SRGAN模型（mindspore框架）进行超分辨率图像测试<br />
